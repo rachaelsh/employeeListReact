@@ -44,7 +44,7 @@ employeeList = [
     name: "Michael Simon",
     position: "Office Cook",
     hireDate: "07/06/2010",
-    imgurl: "http://www.bullz-eye.com/television/interviews/2010/images/michael_symon/michael_symon_01.jpg",
+    imgurl: "https://lh6.googleusercontent.com/-pfajpq6xCW8/AAAAAAAAAAI/AAAAAAAAACM/3_YGH7aHIcg/s0-c-k-no-ns/photo.jpg",
     DOB: "03/12/1976"
   },{
     name: "Michael Scott",
@@ -68,7 +68,7 @@ employeeList = [
     name: "Bob Higgins",
     position: "The Actual Security Guard",
     hireDate: "09/03/2011",
-    imgurl: "http://1.media.collegehumor.cvcdn.com/57/18/0fae99c48dd98c48f6c195d95ba5f13a.jpg",
+    imgurl: "https://assets.entrepreneur.com/content/16x9/822/1392752611-take-page-from-rock-refer-yourself-third-person.jpg",
     DOB: "03/25/1966"
   }
 ]

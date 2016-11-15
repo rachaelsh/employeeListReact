@@ -1,0 +1,21 @@
+.card {
+  height: max-content;
+  width: 400px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.image {
+  width: 200px;
+}
+
+li {
+  list-style: none;
+}
